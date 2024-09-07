@@ -3,7 +3,6 @@
 I'm **Lucas Antunes**, a Full Stack Developer from Rio de Janeiro, RJ. I'm passionate about process automation, game development, and exploring new technologies. Welcome to my GitHub profile!
 
 - 🌐 [BotGeek](https://botgeek.com.br/)
-- 🐦 [Twitter](https://twitter.com/GoodLucao)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-antunes/)
 
 ---
@@ -58,7 +57,6 @@ I am a dedicated developer who loves to solve problems and create innovative sol
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out!
 
 - 📧 Email: lucas.antunes355@gmail.com
-- 💬 Twitter: [@GoodLucao](https://twitter.com/GoodLucao)
 
 ---
 
