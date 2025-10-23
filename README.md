@@ -1,63 +1,66 @@
-# Hi there! 👋
+# 👋 Hey there!
 
-I'm **Lucas Antunes**, a Full Stack Developer from Rio de Janeiro, RJ. I'm passionate about process automation, game development, and exploring new technologies. Welcome to my GitHub profile!
-
-- 🌐 [BotGeek](https://botgeek.com.br/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-antunes/)
+I'm **Lucas Magalhães**, Tech Lead & Software Engineer from Rio de Janeiro, Brazil 🇧🇷  
+Founder at [**BotGeek**](https://botgeek.com.br), where I design and build automation systems, bots, and API integrations that turn manual processes into intelligent workflows.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 About Me
 
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+With over **10 years of experience** in software development, I’ve worked across multiple technologies and business sectors — from corporate systems and e-commerce to government automation projects.
+
+💡 My focus areas:  
+- **RPA (Robotic Process Automation)** and workflow optimization  
+- **API architecture** and **system integrations**  
+- **Full-stack development** with Node.js, PHP & modern JS frameworks  
+- **Data analysis** and automation pipelines  
+
+I believe in writing scalable, maintainable systems that bring real impact — eliminating repetitive work, improving data accuracy, and freeing people for what really matters.
+
+---
+
+## 🛠️ Tech Stack
+
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![Electron](https://img.shields.io/badge/-Electron-333?style=flat&logo=electron)
+![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
+
+---
+
+## ⚙️ What I Build
+
+- 🤖 **RPAs & Bots** – custom automations that handle large-scale form submissions and integrations.  
+- 🔗 **APIs & Middleware** – connecting legacy systems to modern architectures.  
+- 🧩 **Full-stack Solutions** – web platforms, internal tools, and hybrid apps (Electron + Node.js).  
+- 📊 **Data Scraping & Analysis** – transforming raw data into insights and actions.  
 
 ---
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AntunesDev&show_icons=true&theme=dark" alt="GitHub Stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntunesDev&layout=compact&theme=dark" alt="Top Languages" />
-
----
-
-## 📖 About Me
-
-I am a dedicated developer who loves to solve problems and create innovative solutions. With a background in both front-end and back-end development, I enjoy building full-stack applications that provide seamless user experiences.
-
-- 💡 I thrive on new challenges and am always looking for opportunities to learn and grow.
-- 🎮 In my free time, I love developing games and exploring the world of game development.
-- 🌱 Currently, I'm diving deep into React and Next.js to enhance my skills in modern web development.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntunesDev&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntunesDev&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 🌍 Connect With Me
 
-- **React** and **Next.js** to build modern web applications.
-- Enhancing my skills in **process automation** and **game development**.
-
----
-
-## 🎨 Hobbies & Interests
-
-- 🎮 **Game Development:** Creating engaging and fun games.
-- 📚 **Reading:** Enjoying books on technology and personal development.
-- 🍳 **Cooking:** Experimenting with new recipes and cuisines.
-- 🎵 **Music:** Playing the keyboard and discovering new music genres.
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-antunes/)
+- 🌐 [BotGeek](https://botgeek.com.br)
+- 💻 [GitHub](https://github.com/AntunesDev)
+- 📧 **lucas.antunes355@gmail.com**
 
 ---
 
-## 📫 Get in Touch
+> “Automation isn’t about replacing people — it’s about giving them superpowers.” ⚡  
+> — Lucas Magalhães
 
-I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out!
-
-- 📧 Email: lucas.antunes355@gmail.com
-
----
-
-Thanks for stopping by! Have a great day! 🚀
