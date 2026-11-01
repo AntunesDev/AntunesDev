@@ -49,8 +49,8 @@ I focus on building scalable, maintainable systems that deliver real operational
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntunesDev&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntunesDev&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=AntunesDev&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AntunesDev&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
 ---
